@@ -1,4 +1,6 @@
-# Desafio 5 - Layout YouTube com Grid
+# Importante: Não responsivo, já que o desafio pedia uma resolução específica!(900x430)
+
+# Desafio Layout YouTube com Grid
 
 Desafio que eu mais gostei até agora. Me desafiou muito com o uso de grid e flex.
 
