@@ -1,4 +1,4 @@
-# Importante: Não responsivo, já que o desafio pedia uma resolução específica!(900x430)
+*Não responsivo, já que o desafio pedia uma resolução específica!(900x430)
 
 # Desafio Layout YouTube com Grid
 
